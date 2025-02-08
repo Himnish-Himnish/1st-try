@@ -1,2 +1,2 @@
-# 1st-try
+# Himnish-demo
 This is my first Git Repository 
